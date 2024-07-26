@@ -1,5 +1,5 @@
 # Hey There 👋
-I'm Bart - I used to be a 3D design modeler before, I'm strive to be a programmer for now. I'm interested in tool developments, learning new skills and exploring new tech. 
+I'm Bart - I used to be a 3D design modeler before, I'm a java programmer for now. I'm interested in tool developments, learning new skills and exploring new tech. 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,vue,py,mysql,redis,rabbitmq,spring,postman,qt,git,maven,idea)](https://skillicons.dev)
 # Current Repositories Language
